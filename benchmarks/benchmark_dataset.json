@@ -1,0 +1,109 @@
+{
+  "tasks": [
+    {
+      "task_id": "multi_tool_chain_1_20260404111517",
+      "task_type": "multi_tool_chain",
+      "description": "Search for API docs, write integration code, test execution",
+      "difficulty": "hard",
+      "steps_required": 8
+    },
+    {
+      "task_id": "web_search_2_20260404111517",
+      "task_type": "web_search",
+      "description": "Compare different transformer architectures",
+      "difficulty": "medium",
+      "steps_required": 3
+    },
+    {
+      "task_id": "web_search_3_20260404111517",
+      "task_type": "web_search",
+      "description": "Search for information about machine learning frameworks",
+      "difficulty": "easy",
+      "steps_required": 2
+    },
+    {
+      "task_id": "file_management_4_20260404111517",
+      "task_type": "file_management",
+      "description": "Backup important files and create archive log",
+      "difficulty": "medium",
+      "steps_required": 4
+    },
+    {
+      "task_id": "web_search_5_20260404111517",
+      "task_type": "web_search",
+      "description": "Search for information about machine learning frameworks",
+      "difficulty": "easy",
+      "steps_required": 2
+    },
+    {
+      "task_id": "file_management_6_20260404111517",
+      "task_type": "file_management",
+      "description": "Read configuration file, modify settings, and save updated version",
+      "difficulty": "easy",
+      "steps_required": 3
+    },
+    {
+      "task_id": "file_management_7_20260404111517",
+      "task_type": "file_management",
+      "description": "Read configuration file, modify settings, and save updated version",
+      "difficulty": "easy",
+      "steps_required": 3
+    },
+    {
+      "task_id": "web_search_8_20260404111517",
+      "task_type": "web_search",
+      "description": "Research CUDA GPU programming best practices",
+      "difficulty": "medium",
+      "steps_required": 4
+    },
+    {
+      "task_id": "multi_tool_chain_9_20260404111517",
+      "task_type": "multi_tool_chain",
+      "description": "Search for API docs, write integration code, test execution",
+      "difficulty": "hard",
+      "steps_required": 8
+    },
+    {
+      "task_id": "file_management_10_20260404111517",
+      "task_type": "file_management",
+      "description": "Backup important files and create archive log",
+      "difficulty": "medium",
+      "steps_required": 4
+    },
+    {
+      "task_id": "multi_tool_chain_11_20260404111517",
+      "task_type": "multi_tool_chain",
+      "description": "Read data file, execute processing code, save results",
+      "difficulty": "medium",
+      "steps_required": 5
+    },
+    {
+      "task_id": "web_search_12_20260404111517",
+      "task_type": "web_search",
+      "description": "Search for information about machine learning frameworks",
+      "difficulty": "easy",
+      "steps_required": 2
+    },
+    {
+      "task_id": "web_search_13_20260404111517",
+      "task_type": "web_search",
+      "description": "Search for information about machine learning frameworks",
+      "difficulty": "easy",
+      "steps_required": 2
+    }
+  ],
+  "metrics_summary": {
+    "avg_context_drift": 0.4866666666666667,
+    "avg_error_propagation": 0.0,
+    "avg_tool_hallucination": 0.0,
+    "stability_score": 0.8377777777777777,
+    "completion_rates": {
+      "10": 0.3,
+      "20": 0.65,
+      "30": 0.7666666666666667,
+      "40": 0.825,
+      "50": 0.86
+    }
+  },
+  "generated_at": "2026-04-04T11:19:23.734828"
+}

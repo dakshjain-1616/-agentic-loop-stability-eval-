@@ -1,0 +1,391 @@
+{
+  "total_steps": 50,
+  "aggregate_metrics": {
+    "avg_context_drift": 0.6133333333333334,
+    "avg_error_propagation": 0.0,
+    "avg_tool_hallucination": 0.0,
+    "stability_score": 0.7955555555555556,
+    "completion_rates": {
+      "10": 0.7,
+      "20": 0.85,
+      "30": 0.9,
+      "40": 0.925,
+      "50": 0.94
+    }
+  },
+  "step_results": [
+    {
+      "step_id": 1,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 2,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 1.0
+    },
+    {
+      "step_id": 3,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 4,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 5,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 6,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 7,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 8,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 9,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 10,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 11,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 12,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 13,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 14,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 15,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 16,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 17,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 18,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 19,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 20,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 21,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 22,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 23,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 24,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 25,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 26,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 27,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 28,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 29,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 30,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 31,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 32,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 33,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 34,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 35,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 36,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 37,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 38,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 39,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 40,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 41,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 42,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 43,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 44,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 45,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 46,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 47,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 48,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 49,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    },
+    {
+      "step_id": 50,
+      "tools_used": [],
+      "errors": [],
+      "task_completed": false,
+      "response_confidence": 0.5
+    }
+  ],
+  "task_statistics": {
+    "total": 12,
+    "by_type": {
+      "file_management": 3,
+      "web_search": 1,
+      "code_execution": 4,
+      "multi_tool_chain": 4
+    },
+    "by_difficulty": {
+      "medium": 3,
+      "hard": 5,
+      "easy": 4
+    },
+    "avg_steps": 5.083333333333333
+  },
+  "agent_statistics": {
+    "model": "Qwen/Qwen2.5-0.5B-Instruct",
+    "device": "cuda",
+    "cuda_enabled": true,
+    "context_length": 0,
+    "history_length": 0
+  },
+  "timestamp": "2026-04-04T13:57:02.917302"
+}

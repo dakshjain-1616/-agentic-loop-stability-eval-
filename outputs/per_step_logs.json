@@ -1,0 +1,502 @@
+[
+  {
+    "step_id": 1,
+    "context_drift_score": 0.0,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": false,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:00.402016"
+  },
+  {
+    "step_id": 2,
+    "context_drift_score": 0.0,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": false,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:07.042853"
+  },
+  {
+    "step_id": 3,
+    "context_drift_score": 0.0,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": false,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:13.694588"
+  },
+  {
+    "step_id": 4,
+    "context_drift_score": 0.0,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:21.146968"
+  },
+  {
+    "step_id": 5,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:27.645059"
+  },
+  {
+    "step_id": 6,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:34.378446"
+  },
+  {
+    "step_id": 7,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:40.227776"
+  },
+  {
+    "step_id": 8,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:45.679850"
+  },
+  {
+    "step_id": 9,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:49.052359"
+  },
+  {
+    "step_id": 10,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:52:55.628036"
+  },
+  {
+    "step_id": 11,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:02.320555"
+  },
+  {
+    "step_id": 12,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:08.848114"
+  },
+  {
+    "step_id": 13,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:15.446548"
+  },
+  {
+    "step_id": 14,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:22.217063"
+  },
+  {
+    "step_id": 15,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:29.190978"
+  },
+  {
+    "step_id": 16,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:35.988109"
+  },
+  {
+    "step_id": 17,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:42.800926"
+  },
+  {
+    "step_id": 18,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:49.602962"
+  },
+  {
+    "step_id": 19,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:53:56.384020"
+  },
+  {
+    "step_id": 20,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:02.969877"
+  },
+  {
+    "step_id": 21,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:09.619479"
+  },
+  {
+    "step_id": 22,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:16.011817"
+  },
+  {
+    "step_id": 23,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:16.269393"
+  },
+  {
+    "step_id": 24,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:22.567794"
+  },
+  {
+    "step_id": 25,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:28.941386"
+  },
+  {
+    "step_id": 26,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:31.827457"
+  },
+  {
+    "step_id": 27,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:38.149357"
+  },
+  {
+    "step_id": 28,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:44.389890"
+  },
+  {
+    "step_id": 29,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:50.666413"
+  },
+  {
+    "step_id": 30,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:54:56.881390"
+  },
+  {
+    "step_id": 31,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:03.174773"
+  },
+  {
+    "step_id": 32,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:09.415872"
+  },
+  {
+    "step_id": 33,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:15.772928"
+  },
+  {
+    "step_id": 34,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:22.465200"
+  },
+  {
+    "step_id": 35,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:28.986620"
+  },
+  {
+    "step_id": 36,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:35.626796"
+  },
+  {
+    "step_id": 37,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:42.147639"
+  },
+  {
+    "step_id": 38,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:48.890913"
+  },
+  {
+    "step_id": 39,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:55:55.750179"
+  },
+  {
+    "step_id": 40,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:02.767493"
+  },
+  {
+    "step_id": 41,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:09.596671"
+  },
+  {
+    "step_id": 42,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:16.107545"
+  },
+  {
+    "step_id": 43,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:23.045518"
+  },
+  {
+    "step_id": 44,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:29.845254"
+  },
+  {
+    "step_id": 45,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:30.090854"
+  },
+  {
+    "step_id": 46,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:36.988467"
+  },
+  {
+    "step_id": 47,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:43.862214"
+  },
+  {
+    "step_id": 48,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:49.435435"
+  },
+  {
+    "step_id": 49,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:56:56.242899"
+  },
+  {
+    "step_id": 50,
+    "context_drift_score": 0.6666666666666667,
+    "error_propagation_rate": 0.0,
+    "tool_hallucination_rate": 0.0,
+    "task_completion_status": true,
+    "tools_used": [],
+    "errors": [],
+    "timestamp": "2026-04-04T13:57:02.917189"
+  }
+]

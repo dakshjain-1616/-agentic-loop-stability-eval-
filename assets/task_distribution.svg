@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 310" width="720" height="310" font-family="'Segoe UI', system-ui, sans-serif">
+  <rect width="720" height="310" rx="12" fill="#0d1117"/>
+
+  <!-- Left panel title -->
+  <text x="185" y="28" text-anchor="middle" font-size="13" fill="#e6edf3" font-weight="600">Tasks by Type</text>
+  <!-- Right panel title -->
+  <text x="545" y="28" text-anchor="middle" font-size="13" fill="#e6edf3" font-weight="600">Tasks by Difficulty</text>
+
+  <!-- Divider -->
+  <line x1="370" y1="35" x2="370" y2="285" stroke="#21262d" stroke-width="1"/>
+
+  <!-- === LEFT: By Type (max bar = multi_tool_chain=4 or code_execution=4, width scaled to 240px max) === -->
+  <!-- multi_tool_chain: 4/4 * 240 = 240 -->
+  <text x="65" y="70" font-size="11" fill="#8b949e">multi_tool_chain</text>
+  <rect x="65" y="76" width="240" height="26" rx="5" fill="#6f42c1"/>
+  <text x="312" y="94" font-size="12" fill="#c9b3f5" font-weight="600">4 tasks</text>
+
+  <!-- code_execution: 4/4 * 240 = 240 -->
+  <text x="65" y="120" font-size="11" fill="#8b949e">code_execution</text>
+  <rect x="65" y="126" width="240" height="26" rx="5" fill="#f0883e"/>
+  <text x="312" y="144" font-size="12" fill="#ffa657" font-weight="600">4 tasks</text>
+
+  <!-- file_management: 3/4 * 240 = 180 -->
+  <text x="65" y="170" font-size="11" fill="#8b949e">file_management</text>
+  <rect x="65" y="176" width="180" height="26" rx="5" fill="#3fb950"/>
+  <text x="252" y="194" font-size="12" fill="#56d364" font-weight="600">3 tasks</text>
+
+  <!-- web_search: 1/4 * 240 = 60 -->
+  <text x="65" y="220" font-size="11" fill="#8b949e">web_search</text>
+  <rect x="65" y="226" width="60" height="26" rx="5" fill="#388bfd"/>
+  <text x="132" y="244" font-size="12" fill="#79c0ff" font-weight="600">1 task</text>
+
+  <!-- Left legend -->
+  <rect x="25" y="268" width="10" height="10" rx="2" fill="#6f42c1"/>
+  <text x="40" y="278" font-size="10" fill="#8b949e">multi_tool_chain</text>
+  <rect x="135" y="268" width="10" height="10" rx="2" fill="#f0883e"/>
+  <text x="150" y="278" font-size="10" fill="#8b949e">code_execution</text>
+  <rect x="245" y="268" width="10" height="10" rx="2" fill="#3fb950"/>
+  <text x="260" y="278" font-size="10" fill="#8b949e">file_management</text>
+  <rect x="355" y="268" width="10" height="10" rx="2" fill="#388bfd"/>
+  <text x="370" y="278" font-size="10" fill="#8b949e">web_search</text>
+
+  <!-- === RIGHT: By Difficulty (max bar = hard=5, width scaled to 240px max) === -->
+  <!-- Hard: 5/5 * 240 = 240 -->
+  <text x="395" y="70" font-size="11" fill="#8b949e">Hard</text>
+  <rect x="395" y="76" width="240" height="26" rx="5" fill="#f85149"/>
+  <text x="642" y="94" font-size="12" fill="#ff7b72" font-weight="600">5 tasks</text>
+
+  <!-- Easy: 4/5 * 240 = 192 -->
+  <text x="395" y="120" font-size="11" fill="#8b949e">Easy</text>
+  <rect x="395" y="126" width="192" height="26" rx="5" fill="#3fb950"/>
+  <text x="594" y="144" font-size="12" fill="#56d364" font-weight="600">4 tasks</text>
+
+  <!-- Medium: 3/5 * 240 = 144 -->
+  <text x="395" y="170" font-size="11" fill="#8b949e">Medium</text>
+  <rect x="395" y="176" width="144" height="26" rx="5" fill="#d29922"/>
+  <text x="546" y="194" font-size="12" fill="#e3b341" font-weight="600">3 tasks</text>
+
+  <!-- Right legend -->
+  <rect x="395" y="268" width="10" height="10" rx="2" fill="#f85149"/>
+  <text x="410" y="278" font-size="10" fill="#8b949e">Hard</text>
+  <rect x="455" y="268" width="10" height="10" rx="2" fill="#3fb950"/>
+  <text x="470" y="278" font-size="10" fill="#8b949e">Easy</text>
+  <rect x="515" y="268" width="10" height="10" rx="2" fill="#d29922"/>
+  <text x="530" y="278" font-size="10" fill="#8b949e">Medium</text>
+</svg>

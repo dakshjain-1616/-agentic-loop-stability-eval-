@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 330" width="720" height="330" font-family="'Segoe UI', system-ui, sans-serif">
+  <rect width="720" height="330" rx="12" fill="#0d1117"/>
+
+  <!-- Title -->
+  <text x="360" y="32" text-anchor="middle" font-size="14" fill="#e6edf3" font-weight="600">Completion Rate Progression (Steps 10 to 50)</text>
+  <text x="360" y="50" text-anchor="middle" font-size="11" fill="#8b949e">Qwen/Qwen2.5-0.5B-Instruct · cuda · 12 tasks · 50 steps</text>
+
+  <!-- Grid background -->
+  <rect x="70" y="65" width="590" height="195" rx="4" fill="#161b22"/>
+
+  <!-- Horizontal grid lines + Y labels -->
+  <line x1="70" y1="65" x2="660" y2="65" stroke="#21262d" stroke-width="1"/>
+  <text x="60" y="69" text-anchor="end" font-size="10" fill="#8b949e">100%</text>
+
+  <line x1="70" y1="114" x2="660" y2="114" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="60" y="118" text-anchor="end" font-size="10" fill="#8b949e">75%</text>
+
+  <line x1="70" y1="163" x2="660" y2="163" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="60" y="167" text-anchor="end" font-size="10" fill="#8b949e">50%</text>
+
+  <line x1="70" y1="211" x2="660" y2="211" stroke="#21262d" stroke-width="1" stroke-dasharray="4,3"/>
+  <text x="60" y="215" text-anchor="end" font-size="10" fill="#8b949e">25%</text>
+
+  <line x1="70" y1="260" x2="660" y2="260" stroke="#30363d" stroke-width="1"/>
+  <text x="60" y="264" text-anchor="end" font-size="10" fill="#8b949e">0%</text>
+
+  <!-- X axis tick marks -->
+  <line x1="188" y1="260" x2="188" y2="265" stroke="#30363d" stroke-width="1"/>
+  <line x1="306" y1="260" x2="306" y2="265" stroke="#30363d" stroke-width="1"/>
+  <line x1="424" y1="260" x2="424" y2="265" stroke="#30363d" stroke-width="1"/>
+  <line x1="542" y1="260" x2="542" y2="265" stroke="#30363d" stroke-width="1"/>
+  <line x1="660" y1="260" x2="660" y2="265" stroke="#30363d" stroke-width="1"/>
+
+  <!-- X axis labels -->
+  <text x="188" y="282" text-anchor="middle" font-size="11" fill="#8b949e">Step 10</text>
+  <text x="306" y="282" text-anchor="middle" font-size="11" fill="#8b949e">Step 20</text>
+  <text x="424" y="282" text-anchor="middle" font-size="11" fill="#8b949e">Step 30</text>
+  <text x="542" y="282" text-anchor="middle" font-size="11" fill="#8b949e">Step 40</text>
+  <text x="660" y="282" text-anchor="middle" font-size="11" fill="#8b949e">Step 50</text>
+
+  <!-- Y values:  y = 260 - (pct * 195)
+       step10=70%  -> 260-(0.70*195)=123.5
+       step20=85%  -> 260-(0.85*195)=94.25
+       step30=90%  -> 260-(0.90*195)=84.5
+       step40=92.5%-> 260-(0.925*195)=79.6
+       step50=94%  -> 260-(0.94*195)=76.7
+  -->
+
+  <!-- Shaded area under the curve -->
+  <polygon
+    points="188,123.5 306,94.25 424,84.5 542,79.6 660,76.7 660,260 188,260"
+    fill="#6f42c1"
+    fill-opacity="0.13"
+  />
+
+  <!-- Main line -->
+  <polyline
+    points="188,123.5 306,94.25 424,84.5 542,79.6 660,76.7"
+    fill="none"
+    stroke="#6f42c1"
+    stroke-width="3"
+    stroke-linejoin="round"
+    stroke-linecap="round"
+  />
+
+  <!-- Data point circles -->
+  <circle cx="188" cy="123.5" r="6" fill="#6f42c1" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="306" cy="94.25" r="6" fill="#6f42c1" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="424" cy="84.5" r="6" fill="#6f42c1" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="542" cy="79.6" r="6" fill="#6f42c1" stroke="#0d1117" stroke-width="2"/>
+  <circle cx="660" cy="76.7" r="7" fill="#a371f7" stroke="#0d1117" stroke-width="2"/>
+
+  <!-- Value labels -->
+  <text x="188" y="115" text-anchor="middle" font-size="12" fill="#a371f7" font-weight="700">70%</text>
+  <text x="306" y="86" text-anchor="middle" font-size="12" fill="#a371f7" font-weight="700">85%</text>
+  <text x="424" y="76" text-anchor="middle" font-size="12" fill="#a371f7" font-weight="700">90%</text>
+  <text x="542" y="71" text-anchor="middle" font-size="12" fill="#a371f7" font-weight="700">92.5%</text>
+  <text x="660" y="68" text-anchor="middle" font-size="12" fill="#a371f7" font-weight="700">94%</text>
+
+  <!-- Delta annotation badge -->
+  <rect x="270" y="297" width="194" height="24" rx="6" fill="#161b22" stroke="#6f42c1" stroke-width="1"/>
+  <text x="367" y="313" text-anchor="middle" font-size="11" fill="#8b949e">+24 pp gain across the evaluation window</text>
+</svg>
