@@ -1,6 +1,8 @@
 # Agentic Loop Stability Evaluation
 
 [![Built with NEO](https://img.shields.io/badge/Built%20with-NEO%20AI%20Agent-6f42c1?style=for-the-badge)](https://heyneo.so)
+
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-agentic--loop--stability--eval-yellow?style=for-the-badge)](https://huggingface.co/datasets/daksh-neo/agentic-loop-stability-eval)
 [![NEO VS Code](https://img.shields.io/visual-studio-marketplace/v/NeoResearchInc.heyneo?style=for-the-badge&label=NEO%20VS%20Code)](https://marketplace.visualstudio.com/items?itemName=NeoResearchInc.heyneo)
 
 > This project was autonomously built using **NEO** — Your autonomous AI Agent. [Try NEO →](https://heyneo.so)
