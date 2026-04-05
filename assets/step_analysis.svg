@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="220" viewBox="0 0 700 220">
+  <defs>
+    <style>
+      .font-base { font-family: 'Segoe UI', system-ui, sans-serif; }
+    </style>
+    <linearGradient id="connGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#d29922"/>
+      <stop offset="100%" stop-color="#a8c656"/>
+    </linearGradient>
+    <linearGradient id="connGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a8c656"/>
+      <stop offset="100%" stop-color="#7cc96a"/>
+    </linearGradient>
+    <linearGradient id="connGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7cc96a"/>
+      <stop offset="100%" stop-color="#56c278"/>
+    </linearGradient>
+    <linearGradient id="connGrad4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#56c278"/>
+      <stop offset="100%" stop-color="#3fb950"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="700" height="220" fill="#0d1117" rx="8"/>
+
+  <!-- Title -->
+  <text x="350" y="26" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e" letter-spacing="0.08em">AGENTIC STABILITY — STEP COMPLETION ANALYSIS</text>
+
+  <!-- Step data: x positions for 5 nodes -->
+  <!-- Node centers: 80, 195, 310, 425, 540 -->
+  <!-- Circle Y: 100 -->
+
+  <!-- Connector lines (behind circles) -->
+  <line x1="110" y1="100" x2="165" y2="100" stroke="url(#connGrad1)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="225" y1="100" x2="280" y2="100" stroke="url(#connGrad2)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="340" y1="100" x2="395" y2="100" stroke="url(#connGrad3)" stroke-width="3" stroke-linecap="round"/>
+  <line x1="455" y1="100" x2="510" y2="100" stroke="url(#connGrad4)" stroke-width="3" stroke-linecap="round"/>
+
+  <!-- Arrow heads -->
+  <polygon points="165,95 177,100 165,105" fill="#a8c656"/>
+  <polygon points="280,95 292,100 280,105" fill="#7cc96a"/>
+  <polygon points="395,95 407,100 395,105" fill="#56c278"/>
+  <polygon points="510,95 522,100 510,105" fill="#3fb950"/>
+
+  <!-- ═══ Node 1: Step 10, 70% — amber ═══ -->
+  <circle cx="80" cy="100" r="32" fill="#1c1408" stroke="#d29922" stroke-width="2.5"/>
+  <text x="80" y="95" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e" font-weight="600">STEP</text>
+  <text x="80" y="113" text-anchor="middle" class="font-base" font-size="20" font-weight="700" fill="#d29922">10</text>
+  <!-- Completion % below -->
+  <text x="80" y="148" text-anchor="middle" class="font-base" font-size="13" font-weight="700" fill="#d29922">70%</text>
+  <text x="80" y="163" text-anchor="middle" class="font-base" font-size="10" fill="#8b949e">completion</text>
+
+  <!-- ═══ Node 2: Step 20, 85% — yellow-green ═══ -->
+  <circle cx="195" cy="100" r="32" fill="#151c08" stroke="#a8c656" stroke-width="2.5"/>
+  <text x="195" y="95" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e" font-weight="600">STEP</text>
+  <text x="195" y="113" text-anchor="middle" class="font-base" font-size="20" font-weight="700" fill="#a8c656">20</text>
+  <text x="195" y="148" text-anchor="middle" class="font-base" font-size="13" font-weight="700" fill="#a8c656">85%</text>
+  <text x="195" y="163" text-anchor="middle" class="font-base" font-size="10" fill="#8b949e">completion</text>
+
+  <!-- ═══ Node 3: Step 30, 90% — light green ═══ -->
+  <circle cx="310" cy="100" r="32" fill="#0f1f0f" stroke="#7cc96a" stroke-width="2.5"/>
+  <text x="310" y="95" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e" font-weight="600">STEP</text>
+  <text x="310" y="113" text-anchor="middle" class="font-base" font-size="20" font-weight="700" fill="#7cc96a">30</text>
+  <text x="310" y="148" text-anchor="middle" class="font-base" font-size="13" font-weight="700" fill="#7cc96a">90%</text>
+  <text x="310" y="163" text-anchor="middle" class="font-base" font-size="10" fill="#8b949e">completion</text>
+
+  <!-- ═══ Node 4: Step 40, 92.5% — green ═══ -->
+  <circle cx="425" cy="100" r="32" fill="#0c1f0c" stroke="#56c278" stroke-width="2.5"/>
+  <text x="425" y="95" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e" font-weight="600">STEP</text>
+  <text x="425" y="113" text-anchor="middle" class="font-base" font-size="20" font-weight="700" fill="#56c278">40</text>
+  <text x="425" y="148" text-anchor="middle" class="font-base" font-size="13" font-weight="700" fill="#56c278">92.5%</text>
+  <text x="425" y="163" text-anchor="middle" class="font-base" font-size="10" fill="#8b949e">completion</text>
+
+  <!-- ═══ Node 5: Step 50, 94% — full green ═══ -->
+  <circle cx="540" cy="100" r="32" fill="#0a1f0a" stroke="#3fb950" stroke-width="2.5"/>
+  <text x="540" y="95" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e" font-weight="600">STEP</text>
+  <text x="540" y="113" text-anchor="middle" class="font-base" font-size="20" font-weight="700" fill="#3fb950">50</text>
+  <text x="540" y="148" text-anchor="middle" class="font-base" font-size="13" font-weight="700" fill="#3fb950">94%</text>
+  <text x="540" y="163" text-anchor="middle" class="font-base" font-size="10" fill="#8b949e">completion</text>
+
+  <!-- +24pp gain badge -->
+  <rect x="592" y="78" width="96" height="44" rx="10" fill="#0f2b1a" stroke="#3fb950" stroke-width="1.5"/>
+  <text x="640" y="97" text-anchor="middle" class="font-base" font-size="18" font-weight="800" fill="#3fb950">+24pp</text>
+  <text x="640" y="113" text-anchor="middle" class="font-base" font-size="10" fill="#8b949e">total gain</text>
+
+  <!-- Bottom note -->
+  <text x="350" y="197" text-anchor="middle" class="font-base" font-size="11" fill="#8b949e">Steps 10 → 50  ·  Completion rate improves monotonically  ·  Plateau begins near step 40</text>
+</svg>
